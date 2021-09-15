@@ -21,10 +21,13 @@ jobs:
           node-version: '12.x'
           registry-url: 'https://registry.npmjs.org'
 
-      - name: Configure Git User
+      - name: Git Identity
         run: |
-          git config --global user.email "ci.michal.weskida@gmail.com"
-          git config --global user.name "ci@$GITHUB_ACTOR"
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/$GITHUB_REPOSITORY
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Intall dependencies
         run: npm ci
