@@ -1,0 +1,33 @@
+name: Lerna publish
+
+on:
+  push:
+    branches: [ master ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    env:
+      NPM_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        
+      - name: Setup node
+        uses: actions/setup-node@v2
+        with:
+          node-version: '12.x'
+          registry-url: 'https://registry.npmjs.org'
+          
+      - name: Configure Git User
+        run: |
+          git config --global user.email "michal.weskida@gmail.com"
+          git config --global user.name "ci@$GITHUB_ACTOR"
+          
+      - name: Publish
+        run: npm run release
