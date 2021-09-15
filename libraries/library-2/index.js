@@ -12,5 +12,6 @@ console.log('major change test 7');
 console.log('major change test 8');
 console.log('major change test 9');
 console.log('major change test 10');
+console.log('major change test 11');
 
 module.exports = "library-2";
