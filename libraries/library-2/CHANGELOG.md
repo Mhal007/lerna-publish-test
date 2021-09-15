@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.0.2 (2021-09-15)
+
+**Note:** Version bump only for package @mhal007/library-2
+
+
+
+
+
 ## 4.0.1 (2021-09-15)
 
 **Note:** Version bump only for package @mhal007/library-2
