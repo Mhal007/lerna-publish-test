@@ -6,13 +6,6 @@
   "homepage": "https://github.com/Mhal007/lerna-publish-test/tree/main/libraries/library-2#readme",
   "license": "ISC",
   "main": "index.js",
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
-  "files": [
-    "lib"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Mhal007/lerna-publish-test.git"
