@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/library-3@0.2.1...@mhal007/library-3@0.3.0) (2021-09-15)
+
+
+### Features
+
+* major changes test ([55702d0](https://github.com/mhal007/lerna-publish-test/commit/55702d0f2e2fb43a6e6cbb923b685eb322f7608d))
+
+
+### BREAKING CHANGES
+
+* test
+
+
+
+
+
 ## [0.2.1](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/library-3@0.2.0...@mhal007/library-3@0.2.1) (2021-09-15)
 
 **Note:** Version bump only for package @mhal007/library-3
