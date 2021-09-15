@@ -9,10 +9,7 @@
     "test": "jest",
     "publish": "lerna publish"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Mhal007/lerna-publish-test.git"
-  },
+  "repository": "git@github.com:mhal007/lerna-publish-test",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
