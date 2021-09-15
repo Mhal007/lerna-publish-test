@@ -29,5 +29,8 @@ jobs:
           git config --global user.email "ci.michal.weskida@gmail.com"
           git config --global user.name "ci@$GITHUB_ACTOR"
           
+      - name: Intall dependencies
+        run: npm ci
+          
       - name: Publish
         run: npm run release -- --conventional-commits --yes
