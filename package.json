@@ -1,22 +1,16 @@
 {
   "name": "@mhal007/lerna-publish-test",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
+  "repository": "git@github.com:mhal007/lerna-publish-test",
   "scripts": {
     "install": "lerna bootstrap --hoist",
     "start": "lerna run start",
     "test": "jest",
     "publish": "lerna publish"
   },
-  "repository": "git@github.com:mhal007/lerna-publish-test",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Mhal007/lerna-publish-test/issues"
   },
   "homepage": "https://github.com/Mhal007/lerna-publish-test#readme",
   "dependencies": {
