@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "lerna run start",
-    "test": "jest"
+    "test": "jest",
+    "publish": "lerna publish"
   },
   "repository": {
     "type": "git",
