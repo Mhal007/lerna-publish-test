@@ -7,12 +7,8 @@
     "install": "lerna bootstrap --hoist",
     "start": "lerna run start",
     "test": "jest",
-    "release": "lerna publish"
-  },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E  HUSKY_GIT_PARAMS"
-    }
+    "release": "lerna publish",
+    "prepare": "husky install"
   },
   "homepage": "https://github.com/Mhal007/lerna-publish-test#readme",
   "dependencies": {
@@ -20,14 +16,8 @@
     "lerna": "4.0.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "13.1.0",
-    "@commitlint/config-conventional": "13.1.0",
-    "husky": "7.0.2"
-  },
-  "commitlint": {
-    "extends": ["@commitlint/config-conventional"],
-    "rules": {
-      "subject-case": [2, "never", ["start-case", "pascal-case"]]
-    }
+    "@commitlint/cli": "^13.1.0",
+    "@commitlint/config-conventional": "^13.1.0",
+    "husky": "^7.0.2"
   }
 }
