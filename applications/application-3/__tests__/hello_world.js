@@ -1,8 +1,8 @@
 'use strict';
 
-const library1 = require('../index.js');
+const application3 = require('../index.js');
 
-describe('library-1', () => {
+describe('application-3', () => {
     it('prints hello world', () => {
         console.log('hello world from application-3')
     });
