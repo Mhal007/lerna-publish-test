@@ -34,4 +34,4 @@ jobs:
         run: npm ci
 
       - name: Publish
-        run: npm run release -- --conventional-commits --yes
+        run: npm run release -- --yes
