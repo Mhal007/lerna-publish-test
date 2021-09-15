@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/library-3@0.1.1...@mhal007/library-3@0.2.0) (2021-09-15)
+
+
+### Features
+
+* library 3 minor ([c35d26e](https://github.com/mhal007/lerna-publish-test/commit/c35d26e862e357a15fe0341f8301a2b35a4ab53d))
+
+
+
+
+
 ## [0.1.1](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/library-3@0.1.0...@mhal007/library-3@0.1.1) (2021-09-15)
 
 
