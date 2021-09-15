@@ -6,5 +6,6 @@ console.log('application-2 minor change 4');
 console.log('application-2 minor change 5');
 console.log('application-2 minor change 6');
 console.log('application-2 minor change 7');
+console.log('application-2 minor change 8');
 
 module.exports = "application-2";
