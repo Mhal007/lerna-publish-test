@@ -33,7 +33,7 @@ jobs:
         run: npm ci
 
       - name: Publish
-        run: npx lerna publish --yes
+        run: npx lerna publish --yes --no-verify-access
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
