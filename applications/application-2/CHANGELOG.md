@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.11.0](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/application-2@1.10.2...@mhal007/application-2@1.11.0) (2021-09-16)
+
+
+### Features
+
+* app 2 minor ([35432ea](https://github.com/mhal007/lerna-publish-test/commit/35432ea546ec5835138565f88a5f1e006c4b7b45))
+
+
+
+
+
 ## [1.10.2](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/application-2@1.10.1...@mhal007/application-2@1.10.2) (2021-09-16)
 
 **Note:** Version bump only for package @mhal007/application-2
