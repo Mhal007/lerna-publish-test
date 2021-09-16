@@ -21,6 +21,9 @@ jobs:
           node-version: '12.x'
           registry-url: 'https://npm.pkg.github.com/'
 
+      - name: Intall dependencies
+        run: npm ci
+
       - name: Git Identity
         run: |
           git config --global user.name 'github-actions[bot]'
@@ -29,10 +32,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Intall dependencies
-        run: npm ci
-
       - name: Publish
-        run: npx lerna publish --yes --no-verify-access
+        run: npx lerna publish --yes
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
