@@ -1,6 +1,6 @@
 {
   "name": "@mhal007/application-3",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "main": "index.js",
   "repository": "git@github.com:mhal007/lerna-publish-test",
   "publishConfig": {
@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "@mhal007/application-1": "^1.1.2",
-    "@mhal007/application-2": "^1.8.0"
+    "@mhal007/application-2": "^1.9.0"
   }
 }
