@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.1.0](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/application-3@1.0.15...@mhal007/application-3@1.1.0) (2021-09-21)
+
+
+### Features
+
+* packages index.js updated ([bb140f8](https://github.com/mhal007/lerna-publish-test/commit/bb140f8cb520117599bb94bf04c2bee54f9ac450))
+
+
+
+
+
 ## [1.0.15](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/application-3@1.0.14...@mhal007/application-3@1.0.15) (2021-09-16)
 
 **Note:** Version bump only for package @mhal007/application-3
