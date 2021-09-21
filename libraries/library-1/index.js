@@ -1,8 +1,3 @@
-console.log('library-1');
-
-console.log('pathChange');
-
-console.log('new change')
-console.log('newest change')
+console.log('#### Hello World from library-1');
 
 module.exports = "library-1";

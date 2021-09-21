@@ -1,4 +1,4 @@
-console.log('application-3');
+console.log('#### Hello World from application-3');
 
 const application1 = require('@mhal007/application-1');
 const application2 = require('@mhal007/application-2');

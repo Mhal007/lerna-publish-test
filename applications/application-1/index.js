@@ -1,5 +1,3 @@
-console.log('application-1');
-
-console.log('test-1')
+console.log('#### Hello World from application-1');
 
 module.exports = "application-1";

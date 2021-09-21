@@ -1,5 +1,3 @@
-console.log('library 3 fix')
-console.log('library 3 minor')
-console.log('library 3 major')
-console.log('library 3 major 2')
-console.log('library 3 major 3')
+console.log('#### Hello World from library-3');
+
+module.exports = "library-3";
