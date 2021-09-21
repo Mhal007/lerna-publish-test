@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.2](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/library-3@0.4.1...@mhal007/library-3@0.4.2) (2021-09-21)
+
+
+### Bug Fixes
+
+* added variable2 ([1504a1d](https://github.com/mhal007/lerna-publish-test/commit/1504a1d7228bf0cdb254803dc56fa8d27e4388d9))
+
+
+
+
+
 ## [0.4.1](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/library-3@0.4.0...@mhal007/library-3@0.4.1) (2021-09-21)
 
 
