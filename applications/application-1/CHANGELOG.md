@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.1](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/application-1@2.0.0...@mhal007/application-1@2.0.1) (2021-09-22)
+
+
+### Bug Fixes
+
+* added variable4 ([f9f3470](https://github.com/mhal007/lerna-publish-test/commit/f9f3470bb592809b90b6db12d9875cc485132ed2))
+
+
+
+
+
 # [2.0.0](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/application-1@1.4.0...@mhal007/application-1@2.0.0) (2021-09-21)
 
 
