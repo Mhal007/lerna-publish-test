@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.14.1](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/application-2@1.14.0...@mhal007/application-2@1.14.1) (2021-09-27)
+
+**Note:** Version bump only for package @mhal007/application-2
+
+
+
+
+
 # [1.14.0](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/application-2@1.13.0...@mhal007/application-2@1.14.0) (2021-09-22)
 
 
