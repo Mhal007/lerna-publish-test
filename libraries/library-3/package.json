@@ -1,7 +1,7 @@
 {
   "name": "@mhal007/library-3",
   "repository": "git@github.com:mhal007/lerna-publish-test.git",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   }
