@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.1.4](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/library-2@4.1.3...@mhal007/library-2@4.1.4) (2021-09-27)
+
+
+### Bug Fixes
+
+* lib2 fix test ([b40e9d5](https://github.com/mhal007/lerna-publish-test/commit/b40e9d5073fe11a6abe68503f5c12b57e3568b4e))
+
+
+
+
+
 ## [4.1.3](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/library-2@4.1.2...@mhal007/library-2@4.1.3) (2021-09-27)
 
 **Note:** Version bump only for package @mhal007/library-2
