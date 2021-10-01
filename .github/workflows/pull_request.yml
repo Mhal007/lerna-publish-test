@@ -1,9 +1,7 @@
 name: Lerna publish
 
 on:
-  push:
-    branches: [ master ]
-
+  pull_request:
   workflow_dispatch:
 
 jobs:
@@ -31,8 +29,3 @@ jobs:
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/$GITHUB_REPOSITORY
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Publish
-        run: HUSKY_SKIP_HOOKS=1 npx lerna publish --yes
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
