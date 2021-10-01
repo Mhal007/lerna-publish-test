@@ -1,4 +1,4 @@
-name: Lerna publish
+name: Prepublish check
 
 on:
   pull_request:
