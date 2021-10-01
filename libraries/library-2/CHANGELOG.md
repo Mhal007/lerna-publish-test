@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [4.3.0](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/library-2@4.2.0...@mhal007/library-2@4.3.0) (2021-10-01)
+
+
+### Bug Fixes
+
+* fix 1 ([b632d41](https://github.com/mhal007/lerna-publish-test/commit/b632d41533ef0244ff9849f2187dda0c65940651))
+
+
+### Features
+
+* feat 1 ([98bd7d1](https://github.com/mhal007/lerna-publish-test/commit/98bd7d1f8eab0f9bf0a02b0a12e5c8d54bdd1a5b))
+
+
+
+
+
 # [4.2.0](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/library-2@4.1.4...@mhal007/library-2@4.2.0) (2021-10-01)
 
 
