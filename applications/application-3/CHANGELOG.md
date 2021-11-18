@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.11](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/application-3@1.1.10...@mhal007/application-3@1.1.11) (2021-11-18)
+
+
+### Bug Fixes
+
+* adding lib1 as a dependency of app-3 ([7cc9d0a](https://github.com/mhal007/lerna-publish-test/commit/7cc9d0aa9c7901885b8c93a2f1c2a14d444c0736))
+
+
+
+
+
 ## [1.1.10](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/application-3@1.1.8...@mhal007/application-3@1.1.10) (2021-11-12)
 
 
