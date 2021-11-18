@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@mhal007/application-1": "^2.0.3",
-    "@mhal007/application-2": "^1.14.1"
+    "@mhal007/application-2": "^1.14.1",
+    "@mhal007/library-1": "^2.0.1"
   }
 }
