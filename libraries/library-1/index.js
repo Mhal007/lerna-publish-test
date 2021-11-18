@@ -8,5 +8,6 @@ const variable5 = 5;
 const variable6 = 6;
 const variable7 = 7;
 const variable8 = 8;
+const variable9 = 9;
 
 module.exports = "library-1";
