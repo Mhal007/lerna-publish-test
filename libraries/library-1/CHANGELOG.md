@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.2.5](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/library-1@2.2.4...@mhal007/library-1@2.2.5) (2021-11-18)
+
+
+### Bug Fixes
+
+* lib change test ([9782832](https://github.com/mhal007/lerna-publish-test/commit/97828322ef59b7227091122aa9f63e04375f5296))
+
+
+
+
+
 ## [2.2.4](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/library-1@2.2.3...@mhal007/library-1@2.2.4) (2021-11-18)
 
 

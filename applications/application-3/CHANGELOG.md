@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.13](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/application-3@1.1.12...@mhal007/application-3@1.1.13) (2021-11-18)
+
+
+### Bug Fixes
+
+* private true test ([a317447](https://github.com/mhal007/lerna-publish-test/commit/a317447f649e91f6a10937d4afd1c785e4a35915))
+
+
+
+
+
 ## [1.1.12](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/application-3@1.1.11...@mhal007/application-3@1.1.12) (2021-11-18)
 
 **Note:** Version bump only for package @mhal007/application-3
