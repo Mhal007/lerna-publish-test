@@ -32,6 +32,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish
-        run: HUSKY_SKIP_HOOKS=1 npx lerna publish --yes --no-private
+        run: HUSKY_SKIP_HOOKS=1 npx lerna publish --yes
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
