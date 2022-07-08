@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.2.7](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/library-1@2.2.6...@mhal007/library-1@2.2.7) (2022-07-08)
+
+**Note:** Version bump only for package @mhal007/library-1
+
+
+
+
+
 ## [2.2.6](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/library-1@2.2.5...@mhal007/library-1@2.2.6) (2021-11-18)
 
 **Note:** Version bump only for package @mhal007/library-1
