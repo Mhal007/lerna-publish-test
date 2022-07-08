@@ -9,5 +9,6 @@ const variable6 = 6;
 const variable7 = 7;
 const variable8 = 8;
 const variable9 = 9;
+const variable10 = 10;
 
 module.exports = "library-1";
