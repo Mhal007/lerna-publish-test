@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.3.0](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/library-1@2.2.6...@mhal007/library-1@2.3.0) (2022-07-08)
+
+
+### Bug Fixes
+
+* bumping the version ([2383c70](https://github.com/mhal007/lerna-publish-test/commit/2383c70ae8374eee8892da9a2d83c75b8e5710e9))
+* turned husky back on ([000a072](https://github.com/mhal007/lerna-publish-test/commit/000a072b53e8f1473930c5db75d14bcf5f890192))
+
+
+### Features
+
+* applications and packages dependencies reworked ([e709dfa](https://github.com/mhal007/lerna-publish-test/commit/e709dfa3938c64151b2e2ebddd3bb3f021c1c282))
+* removed tests ([b0de0c6](https://github.com/mhal007/lerna-publish-test/commit/b0de0c6e387a20d38a5c18ce544528c73731d7f3))
+
+
+
+
+
 ## [2.2.6](https://github.com/mhal007/lerna-publish-test/compare/@mhal007/library-1@2.2.5...@mhal007/library-1@2.2.6) (2021-11-18)
 
 **Note:** Version bump only for package @mhal007/library-1
