@@ -9,5 +9,9 @@
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@mhal007/library-2": "^4.3.0",
+    "@mhal007/library-3": "^0.5.2"
   }
 }
