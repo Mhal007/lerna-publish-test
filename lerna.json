@@ -1,6 +1,7 @@
 {
   "command": {
     "publish": {
+      "conventionalCommits": true,
       "message": "ci(release): publish",
       "registry": "https://npm.pkg.github.com/"
     }
