@@ -21,7 +21,7 @@ jobs:
           registry-url: 'https://npm.pkg.github.com/'
 
       - name: Install dependencies
-        run: yarn
+        run: yarn policies set-version 3.2.1 && yarn
 
       - name: Git Identity
         run: |

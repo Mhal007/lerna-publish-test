@@ -20,7 +20,7 @@ jobs:
           registry-url: 'https://npm.pkg.github.com/'
 
       - name: Intall dependencies
-        run: npm ci
+        run: yarn
 
       - name: Git Identity
         run: |
