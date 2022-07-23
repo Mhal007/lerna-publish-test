@@ -3,4 +3,4 @@
 
 yarn version check
 
-npm test
+yarn test
