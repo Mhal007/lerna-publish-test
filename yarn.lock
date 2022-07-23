@@ -1481,7 +1481,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@mhal007/application-3@workspace:applications/application-3"
   dependencies:
-    "@mhal007/library-1": 2.4.0
+    "@mhal007/library-1": 2.4.1
   languageName: unknown
   linkType: soft
 
@@ -1495,12 +1495,12 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@mhal007/library-1@2.4.0, @mhal007/library-1@workspace:libraries/library-1":
+"@mhal007/library-1@2.4.1, @mhal007/library-1@workspace:libraries/library-1":
   version: 0.0.0-use.local
   resolution: "@mhal007/library-1@workspace:libraries/library-1"
   dependencies:
     "@mhal007/library-2": 4.4.0
-    "@mhal007/library-3": 0.6.0
+    "@mhal007/library-3": 0.6.1
   languageName: unknown
   linkType: soft
 
@@ -1510,7 +1510,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@mhal007/library-3@0.6.0, @mhal007/library-3@workspace:libraries/library-3":
+"@mhal007/library-3@0.6.1, @mhal007/library-3@workspace:libraries/library-3":
   version: 0.0.0-use.local
   resolution: "@mhal007/library-3@workspace:libraries/library-3"
   languageName: unknown

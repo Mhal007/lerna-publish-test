@@ -1,5 +1,0 @@
-releases:
-  "@mhal007/application-3": patch
-  "@mhal007/lerna-publish-test": patch
-  "@mhal007/library-1": patch
-  "@mhal007/library-3": patch
