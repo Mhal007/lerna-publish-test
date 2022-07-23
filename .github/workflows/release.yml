@@ -20,8 +20,8 @@ jobs:
           node-version: '15.x'
           registry-url: 'https://npm.pkg.github.com/'
 
-      - name: Intall dependencies
-        run: npm ci
+      - name: Install dependencies
+        run: yarn
 
       - name: Git Identity
         run: |
@@ -32,6 +32,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish
-        run: HUSKY_SKIP_HOOKS=1 npx lerna publish --yes --no-private
+        run: HUSKY_SKIP_HOOKS=1 yarn workspaces foreach npm publish --tolerate-republish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
