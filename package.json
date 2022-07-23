@@ -2,6 +2,7 @@
   "name": "@mhal007/lerna-publish-test",
   "version": "2.0.0",
   "main": "index.js",
+  "private": "true",
   "repository": "git@github.com:mhal007/lerna-publish-test",
   "homepage": "https://github.com/Mhal007/lerna-publish-test#readme",
   "scripts": {
