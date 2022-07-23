@@ -5,8 +5,7 @@
   "repository": "git@github.com:mhal007/lerna-publish-test",
   "homepage": "https://github.com/Mhal007/lerna-publish-test#readme",
   "scripts": {
-    "install": "lerna bootstrap --hoist",
-    "start": "lerna run start",
+    "start": "yarn workspaces foreach run start",
     "test": "jest --passWithNoTests",
     "prepare": "husky install"
   },
@@ -15,10 +14,11 @@
     "lerna": "4.0.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "13.1.0",
-    "@commitlint/config-conventional": "13.1.0",
-    "commitizen": "4.2.4",
-    "cz-conventional-changelog": "3.3.0",
     "husky": "7.0.2"
-  }
+  },
+  "workspaces": [
+    "./applications",
+    "./libraries"
+  ],
+  "packageManager": "yarn@3.2.1"
 }
