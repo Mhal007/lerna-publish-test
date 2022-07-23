@@ -19,8 +19,11 @@ jobs:
           node-version: '15.x'
           registry-url: 'https://npm.pkg.github.com/'
 
-      - name: Intall dependencies
-        run: yarn
+      - name: Install dependencies
+        run: yarn policies set-version 3.2.1 && yarn && yarn plugin import workspace-tools && yarn plugin import version
+
+      - name: Check if release strategy defined
+        run: yarn version check
 
       - name: Git Identity
         run: |
