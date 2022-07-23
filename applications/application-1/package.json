@@ -1,6 +1,6 @@
 {
   "name": "@mhal007/application-1",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "main": "index.js",
   "repository": "git@github.com:mhal007/lerna-publish-test",
   "private": true,
