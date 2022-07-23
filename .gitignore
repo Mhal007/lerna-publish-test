@@ -5,3 +5,4 @@ lerna-debug.log
 .yarn/releases
 .yarn/install-state.gz
 .yarn/plugins
+.yarnrc.yml
